@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
+Visit the project site [here](https://ade-omi.github.io/villains-rolodex/).
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
