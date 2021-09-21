@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/villains-rolodex/static/css/main.9e2538fb.chunk.css",
+    "main.js": "/villains-rolodex/static/js/main.0dcbdbd9.chunk.js",
+    "main.js.map": "/villains-rolodex/static/js/main.0dcbdbd9.chunk.js.map",
+    "runtime-main.js": "/villains-rolodex/static/js/runtime-main.badccc54.js",
+    "runtime-main.js.map": "/villains-rolodex/static/js/runtime-main.badccc54.js.map",
+    "static/js/2.f0a796ab.chunk.js": "/villains-rolodex/static/js/2.f0a796ab.chunk.js",
+    "static/js/2.f0a796ab.chunk.js.map": "/villains-rolodex/static/js/2.f0a796ab.chunk.js.map",
+    "static/js/3.7a5b5eb5.chunk.js": "/villains-rolodex/static/js/3.7a5b5eb5.chunk.js",
+    "static/js/3.7a5b5eb5.chunk.js.map": "/villains-rolodex/static/js/3.7a5b5eb5.chunk.js.map",
+    "index.html": "/villains-rolodex/index.html",
+    "static/css/main.9e2538fb.chunk.css.map": "/villains-rolodex/static/css/main.9e2538fb.chunk.css.map",
+    "static/js/2.f0a796ab.chunk.js.LICENSE.txt": "/villains-rolodex/static/js/2.f0a796ab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.badccc54.js",
+    "static/js/2.f0a796ab.chunk.js",
+    "static/css/main.9e2538fb.chunk.css",
+    "static/js/main.0dcbdbd9.chunk.js"
+  ]
+}
